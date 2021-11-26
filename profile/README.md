@@ -1,6 +1,6 @@
 # Welcome to HackArmour
 
-Hackarmour is a cybersecurity community which aims to collect and distribute infosec resources. Our staff consists of devs, hackers and other creative people who work on cool projects here related to cybersec. We also promote opensouce and accept all kinds of contributions to our resources and projects.
+Hackarmour is a cybersecurity community which aims to collect and distribute infosec resources. Our staff consists of devs, hackers and other creative people who work on cool projects related to cybersec. We also promote opensouce and accept all kinds of contributions to our resources and projects.
 
 ## Search Engine
 
