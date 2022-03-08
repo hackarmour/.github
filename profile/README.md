@@ -10,4 +10,4 @@ We are working on a search engine which only indexes good infosec resources appr
 
 Please follow through the contributer guidelines on the given repository:
 
-**[github.com/hackarmour/contributer-guidelines](https://github.com/hackarmour/contributer-guidelines)**
+**[github.com/hackarmour/contributor-guidelines](https://github.com/hackarmour/contributor-guidelines)**
